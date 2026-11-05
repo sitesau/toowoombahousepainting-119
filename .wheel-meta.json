@@ -1,0 +1,22 @@
+{
+  "wheel_id": 747,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-119",
+  "project": "house-painters-toowoomba-signs-you-need-d57709ef187b86fff6ee31f",
+  "parent_t1_ref": "toowoombahousepainting-159",
+  "node_role": "feeder",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painters toowoomba signs you need",
+  "intended_url": "http://house-painters-toowoomba-signs-you-need-d57709ef187b86fff6ee31f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "b982c20b0a005522",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/toowoombahousepainting-159/",
+      "anchor": "more on house painters toowoomba questions to ask",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
